@@ -1,6 +1,8 @@
 
 <h1 align="center">¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Soy Code Start!</h1>
- 
+
+![image alt](https://github.com/CodeStart1124/CodeStart1124/blob/08916bd7012c24d53e08f6298c60507e3de68528/%40cODE_START.png)
+
 <div align=center>
 
 💻 **Desarrollador inicial**  
