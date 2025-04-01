@@ -6,7 +6,7 @@
 💻 **Desarrollador inicial**  
 🎨 **Apasionado(a) por la tecnología, el diseño y la innovación.**  
 
-## 🚀 Sobre mí  
+## 🚀 About me
 Soy un desarrollador en pleno aprendizaje, manejo **HTML5, CSS3, PYTHON, PHP, MYSQL**, enfocado en crear soluciones eficientes y atractivas. Me encanta aprender lenguajes o tecnologias nuevas.
 
 - 🔭 Actualmente estudiando
@@ -17,7 +17,7 @@ Soy un desarrollador en pleno aprendizaje, manejo **HTML5, CSS3, PYTHON, PHP, MY
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials
+## <b>Socials </b> 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/wXPEmYjn) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/code_start23/?hl=es) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/acvinodvzr) 
