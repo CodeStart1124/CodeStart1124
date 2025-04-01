@@ -47,7 +47,7 @@ Soy un desarrollador en pleno aprendizaje, manejo **HTML5, CSS3, PYTHON, PHP, MY
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeStart1124)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeStart1124&show_icons=true&theme=radical)
 <!--- stats (end) -->
 
 
